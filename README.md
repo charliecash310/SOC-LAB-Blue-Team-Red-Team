@@ -57,11 +57,10 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 - Suricata
 <img src="https://i.imgur.com/tsSikfa.png">
 
-- Suricata Detection
-<img src="">
-
 - Splunk Ingestion & Visualization
+<img src="https://i.imgur.com/UVYlYas.png">
 
+- Suricata Detection
 <img src="https://i.imgur.com/pwK9aWY.png">
   
   
