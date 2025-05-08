@@ -8,13 +8,18 @@ Blue Teamers, defenders, and aspiring SOC analysts
 <br/>
 
 - Environment Setup
-
+Ubuntu Server - ifconfig
 <img src="https://i.imgur.com/XQiUihb.png">
+Ubuntu Server - ip a
 <img src="https://i.imgur.com/UkBtRCQ.png">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+Windows 10 Server
+<img src="https://i.imgur.com/FSYYEGC.png">
+Windows 10 Workstation
+<img src="https://i.imgur.com/FSYYEGC.png">
+Kali Linux Attacker Machine - ipconfig
+<img src="https://i.imgur.com/fN4WjEL.png">
+Kali Linux Attacker Machine - ip a 
+<img src="https://i.imgur.com/fN4WjEL.png">
   
 - Attack Simulation
 
