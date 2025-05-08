@@ -3,7 +3,32 @@ A full enterprise-ready detection lab using Virtualbox VMs to simulate network a
 This lab was built to simulate real-world SOC workflows, using Suricata as the IDS and Splunk for centralized log aggregation and visualization. 
 Blue Teamers, defenders, and aspiring SOC analysts
 
-## Steps
+
+
+## 🛡️ Incident Detection Report – Brute Force
+
+**Date:** May 4, 2025  
+**Analyst:** Grisham D.  
+**Detection System:** Suricata + Splunk  
+**Attack Type:** Brute Force (RDP)  
+**Attacker IP:** 192.168.50.255 (Kali)  
+**Target IP:** 192.168.50.10 (Windows 10 Server)
+
+---
+
+## 🔍 Summary
+
+Simulated a brute force attack using Hydra. Detected via Suricata and logged to Splunk. Confirmed presence of:
+- Suricata alert: `ET ATTACK Brute Force`
+- Event timestamps, source port, and target IP
+- Log entry: `event_type: alert`, `proto: tcp`, `dest_port: 3389`
+
+---
+
+## 📸 Screenshots
+- Suricata alert in eve.json
+- Splunk dashboard or log view
+
 
 <br/>
 
@@ -42,6 +67,3 @@ Blue Teamers, defenders, and aspiring SOC analysts
   
 <br />
 
-## Conclusion
-
-<img src="">
