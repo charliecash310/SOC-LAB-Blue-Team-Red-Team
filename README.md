@@ -23,15 +23,21 @@ Blue Teamers, defenders, and aspiring SOC analysts
   
 - Attack Simulation
 
-<img src="">
-  
-- Suricata Detection
+- Hydra Bruteforce RDP
+<img src="https://i.imgur.com/FcFwAHV.png">
+- Nmap Port Scan on Windows 10 Server
+<img src="https://i.imgur.com/5sWO6W8.png">
 
+  
+- Suricata
+<img src="https://i.imgur.com/tsSikfa.png">
+
+- Suricata Detection
 <img src="">
 
 - Splunk Ingestion & Visualization
 
-<img src="">
+<img src="https://i.imgur.com/pwK9aWY.png">
   
   
 <br />
