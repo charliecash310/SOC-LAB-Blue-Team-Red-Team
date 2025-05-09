@@ -34,6 +34,7 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 
 ## Environment Setup
 - VM Adapter Settings
+  
 - Adapter 1 - NAT Network // Corporate Network
 <img src="https://i.imgur.com/nlheQDn.png">
 - Adapter 2 - Lab Network - labnet
