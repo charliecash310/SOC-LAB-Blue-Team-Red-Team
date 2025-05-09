@@ -33,13 +33,12 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 <br/>
 
 ## Environment Setup
-- VM Adapter Settings
-  
-- Adapter 1 - NAT Network // Corporate Network
+## VM Adapter Settings
+## Adapter 1 - NAT Network // Corporate Network
 <img src="https://i.imgur.com/nlheQDn.png">
-- Adapter 2 - Lab Network - labnet
+## Adapter 2 - Lab Network - labnet
 <img src="https://i.imgur.com/oJAYLxO.png">
-- Adapter 3 - NAT
+## Adapter 3 - NAT
 <img src="https://i.imgur.com/lxGOfgQ.png">
 - Ubuntu Server - ifconfig
 <img src="https://i.imgur.com/XQiUihb.png">
@@ -54,7 +53,7 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 - Kali Linux Attacker Machine - ip a 
 <img src="https://i.imgur.com/fN4WjEL.png">
   
-- Attack Simulation
+## Attack Simulation
 
 - Hydra Bruteforce RDP
 <img src="https://i.imgur.com/FcFwAHV.png">
