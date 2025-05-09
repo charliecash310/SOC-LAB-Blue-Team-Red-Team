@@ -7,7 +7,7 @@ Blue Teamers, defenders, and aspiring SOC analysts
 
 ## 🛡️ Incident Detection Report – Brute Force
 
-**Date:** May 4, 2025  
+**Date:** April 20th, 2025 - May 4th, 2025  
 **Analyst:** Grisham D.  
 **Detection System:** Suricata + Splunk  
 **Attack Type:** Brute Force (RDP)  
