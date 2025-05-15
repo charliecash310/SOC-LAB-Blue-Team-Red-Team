@@ -47,7 +47,7 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 - Windows 10 Server
 <img src="https://i.imgur.com/FSYYEGC.png">
 - Windows 10 Workstation
-<img src="https://i.imgur.com/FSYYEGC.png">
+<img src="https://imgur.com/a/hO4jNuV">
 - Kali Linux Attacker Machine - ipconfig
 <img src="https://i.imgur.com/fN4WjEL.png">
 - Kali Linux Attacker Machine - ip a 
