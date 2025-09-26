@@ -42,6 +42,8 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 <img src="https://i.imgur.com/lxGOfgQ.png">
 - Ubuntu Server - ifconfig
 <img src="https://i.imgur.com/XQiUihb.png">
+<img width="652" height="648" alt="Ubuntu_Server_Network_Settings" src="https://github.com/user-attachments/assets/b2b003d4-b4a1-4f12-9c08-c3137819f3bd" />
+
 - Ubuntu Server - ip a
 <img src="https://i.imgur.com/UkBtRCQ.png">
 - Windows 10 Server
