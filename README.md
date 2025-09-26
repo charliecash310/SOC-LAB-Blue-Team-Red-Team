@@ -57,7 +57,7 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 ## Attack Simulation
 
 - Hydra Bruteforce RDP
-<img src="https://i.imgur.com/FcFwAHV.png">
+<img width="1262" height="586" alt="kali_hydra_bruteforce_windows10_server" src="https://github.com/user-attachments/assets/7d33852f-527c-447a-9214-680282e02900" />
 - Nmap Port Scan on Windows 10 Server
 <img src="https://i.imgur.com/5sWO6W8.png">
 
