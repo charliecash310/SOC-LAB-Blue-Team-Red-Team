@@ -41,19 +41,18 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 - Adapter 3 - NAT
 <img src="https://i.imgur.com/lxGOfgQ.png">
 - Ubuntu Server - ifconfig
-<img src="https://i.imgur.com/XQiUihb.png">
 <img width="652" height="648" alt="Ubuntu_Server_Network_Settings" src="https://github.com/user-attachments/assets/b2b003d4-b4a1-4f12-9c08-c3137819f3bd" />
-
 - Ubuntu Server - ip a
-<img src="https://i.imgur.com/UkBtRCQ.png">
+<img width="806" height="457" alt="Ubuntu_Server_Network_Settings_ipa" src="https://github.com/user-attachments/assets/961995d8-7e5d-4deb-bc98-9244575b3531" />
 - Windows 10 Server
-<img src="https://i.imgur.com/FSYYEGC.png">
+<img width="730" height="740" alt="Windows_10_Workstation_Network_Settings" src="https://github.com/user-attachments/assets/413ba8f3-2a5e-491d-a916-cf3e4d695df1" />
 - Windows 10 Workstation
 <img src="https://i.imgur.com/y1VEAGz.png">
 - Kali Linux Attacker Machine - ipconfig
-<img src="https://i.imgur.com/fN4WjEL.png">
-- Kali Linux Attacker Machine - ip a 
-<img src="https://i.imgur.com/fN4WjEL.png">
+<img width="671" height="618" alt="Kali_Attacker_Machine_Network_Settings" src="https://github.com/user-attachments/assets/bf4f0da1-1bdb-4196-90a4-7a5783efd6cf" />
+- Kali Linux Attacker Machine - ip a
+- <img width="846" height="435" alt="Kali_Attacker_Machine_Network_Settings_ipa" src="https://github.com/user-attachments/assets/47a96b03-74da-4f3d-9d0d-f0714b003053" />
+
   
 ## Attack Simulation
 
