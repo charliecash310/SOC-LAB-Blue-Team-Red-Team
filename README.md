@@ -37,11 +37,14 @@ Simulated a brute force attack using Hydra. Detected via Suricata and logged to 
 - Adapter 1 - NAT Network // Corporate Network
 <img src="https://i.imgur.com/nlheQDn.png">
 
+
 - Adapter 2 - Lab Network - labnet
 <img src="https://i.imgur.com/oJAYLxO.png">
 
+
 - Adapter 3 - NAT
 <img src="https://i.imgur.com/lxGOfgQ.png">
+
 
 - Ubuntu Server - ifconfig
 <img width="652" height="648" alt="Ubuntu_Server_Network_Settings" src="https://github.com/user-attachments/assets/b2b003d4-b4a1-4f12-9c08-c3137819f3bd" />
